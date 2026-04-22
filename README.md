@@ -52,6 +52,8 @@ Two fundamentally different approaches were implemented and compared:
 
 - Both methods achieved strong ranking performance, but HOG + OCSVM delivered better overall anomaly detection performance in the final tuned comparison.
 
+<img width="536" height="547" alt="image" src="https://github.com/user-attachments/assets/f8ba6e2f-7792-4efa-bf94-77831f96a039" />
+
 ---
 
 ## 🖼 Example Outputs
