@@ -1,6 +1,12 @@
 # 🧪 Pill Anomaly Detection  
 **Feature-based vs Deep Learning Approaches for Visual Inspection**
 
+<img width="950" height="202" alt="image" src="https://github.com/user-attachments/assets/2bb87fcf-a634-4aa1-854e-b198db8ec125" />
+<img width="950" height="202" alt="image" src="https://github.com/user-attachments/assets/3edafc01-c5e7-411c-a425-a05ada9ac91b" />
+<img width="950" height="202" alt="image" src="https://github.com/user-attachments/assets/034d9e8c-66c0-496f-a99d-020eaca9062b" />
+
+
+
 ---
 
 ## 📌 Overview
