@@ -40,16 +40,13 @@ Two fundamentally different approaches were implemented and compared:
 
 ## 📈 Results Summary
 
-## 📈 Results Summary
+| Metric   | HOG + OCSVM | Autoencoder |
+|----------|-------------|-------------|
+| ROC-AUC  | 0.981       | 0.966       |
+| PR-AUC   | 0.998       | 0.995       |
+| F1 Score | 0.938       | 0.816       |
 
-| Metric  | HOG + OCSVM | Autoencoder |
-|---------|------------|------------|
-| ROC-AUC | ~0.99      | ~0.96      |
-| PR-AUC  | ~0.98–0.99 | ~0.99      |
-| F1 Score | ~0.97     | ~0.34      |
-
-- Both methods achieve strong ranking performance (ROC-AUC, PR-AUC)
-- However, **HOG + OCSVM significantly outperforms the autoencoder in F1 score**, indicating better anomaly detection sensitivity 
+- Both methods achieved strong ranking performance, but HOG + OCSVM delivered better overall anomaly detection performance in the final tuned comparison.
 
 ---
 
