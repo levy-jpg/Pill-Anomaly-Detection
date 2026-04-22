@@ -94,15 +94,15 @@ Two fundamentally different approaches were implemented and compared:
 ## 📁 Project Structure
 pill-anomaly-detection/
 │
-├── notebook/
-│ └── anomaly_detection.ipynb
-├── results/
-│ ├── figures/
-│ └── metrics.csv
-├── assets/
-│ └── sample_outputs.png
-├── requirements.txt
-└── README.md
+├── assets/ # Visual assets used in README (e.g. sample outputs)
+├── notebooks/ # Main Colab/Jupyter notebooks
+│ └── pill_anomaly_detection.ipynb
+├── outputs/
+│ └── metrics/ # Saved evaluation metrics
+├── pillQC_data/ # Dataset used for training and evaluation
+├── requirements.txt # Python dependencies
+├── LICENSE # License file
+└── README.md # Project documentation
 
 ---
 
