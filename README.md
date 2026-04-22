@@ -97,8 +97,7 @@ pill-anomaly-detection/
 ├── assets/ # Visual assets used in README (e.g. sample outputs)
 ├── notebooks/ # Main Colab/Jupyter notebooks
 │ └── pill_anomaly_detection.ipynb
-├── outputs/
-│ └── metrics/ # Saved evaluation metrics
+├── outputs/# Saved evaluation metrics
 ├── pillQC_data/ # Dataset used for training and evaluation
 ├── requirements.txt # Python dependencies
 ├── LICENSE # License file
